@@ -1,0 +1,13 @@
+{
+  "name": "hello-world",
+  "private": true,
+  "scripts": {
+    "dev": "penx dev",
+    "release": "penx release"
+  },
+  "devDependencies": {
+    "penx": "^0.1.3",
+    "penx-cli": "^0.2.3",
+    "typescript": "^5.4.5"
+  }
+}
